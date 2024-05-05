@@ -7,7 +7,21 @@
 - 😄 Pronouns: ...
   He / Him
 - ⚡ Programming Languages & Experiance: ...
+  
+Python - Fluent
+C++ - Learning
+C - Proficient
+Assembly - Basic
+JavaScript - Fluent
+HTML & CSS - Fluent
 
+- Languages I would love to learn & Work with
+  Java
+  Fortran
+  C#
+  Rust
+  PHP, SQL
+  
 - Projects I've Worked on:
   Infinistem.com is a project currently in progress making easy to understand, fun, expansive and universal STEM education,
   including methods of practice, discoverally, intellectual stimulation, and games & puzzles, as well as career readiness & planning
