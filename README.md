@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Infinistem
-- 
+ 👋 Hi, I’m @Infinistem, my real name is alex
+  
 - 👀 I’m interested in ...
+  Computer Science & Engineering, Math, Natrulism & survivl, nature, Music (I am a trombonist), poetry, art, and many other things facstinate me
 - 
 - 🌱 I’m currently learning ...
 - 
