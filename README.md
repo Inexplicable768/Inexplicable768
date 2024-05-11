@@ -10,12 +10,12 @@
   He / Him
 - ⚡ Programming Languages & Experiance: ...
   
-Python - Fluent
-C++ - Learning
-C - Proficient
-Assembly - Basic
-JavaScript - Fluent
-HTML & CSS - Fluent
+Python - Fluent |
+C++ - Learning |
+C - Proficient |
+Assembly - Basic |
+JavaScript - Fluent |
+HTML & CSS - Fluent |
 
 - Languages I would love to learn & Work with
   Java
