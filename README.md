@@ -24,7 +24,7 @@ HTML & CSS - Fluent |
   Rust
   PHP, SQL
 
-Programming is fun, but remember its important to connect with the real world too. I do that, and im pretty damn content as a result
+Programming is fun, but remember its important to connect with the real world too. I do that, and im pretty content as a result. People often say life is short, but really you have a lot of time, its just your perception changes as you age. 
   
 - Projects I've Worked on:
   Infinistem.com is a project currently in progress making easy to understand, fun, expansive and universal STEM education,
