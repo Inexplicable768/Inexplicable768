@@ -13,7 +13,7 @@
 Python - Fluent |
 C++ - Learning |
 C - Proficient |
-Assembly - Basic |
+x86 Assembly - Basic |
 JavaScript - Fluent |
 HTML & CSS - Fluent |
 
