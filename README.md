@@ -11,7 +11,7 @@
   He / Him
 - ⚡ Programming Languages & Experiance: ...
   
-Python - Fluent |
+Python - Advanced |
 C++ - Learning |
 C - Proficient |
 x86 Assembly - Basic |
