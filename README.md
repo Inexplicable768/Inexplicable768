@@ -1,7 +1,7 @@
  👋 Hi, I’m @Infinistem, my real name is alex
   Note: Im working on uploading some of my projects in the next few weeks. I am working mostly on my website so it may be a while
   
-  COMMING SOON: Pool physics, Pacman, paper minecraft, minesweeper, chatroom, graphing calculator, Operating system, etc!
+  Cooler stuff soon: Pool physics, Pacman, paper minecraft, minesweeper, chatroom, graphing calculator, Operating system, still alive, etc!
 
   
   
