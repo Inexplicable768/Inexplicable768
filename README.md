@@ -3,6 +3,8 @@
   
   Cooler stuff soon: Pool physics, Pacman, paper minecraft, minesweeper, chatroom, graphing calculator, Operating system, still alive, etc!
 
+  WORKING ON MY WEBSITE FOR NEXT FEW WEEKS
+
   
   
 - 👀 I’m interested in ...
