@@ -10,6 +10,7 @@
 - 😄 Pronouns: ...
   He / Him
 - ⚡ Programming Languages & Experiance: ...
+- In highschool. Will not specify age
   
 Python - Advanced |
 C++ - Learning |
