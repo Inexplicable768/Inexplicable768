@@ -14,12 +14,17 @@
 - ⚡ Programming Languages & Experiance: ...
 - In highschool. Will not specify age
   
-Python - Advanced |
-C++ - Learning |
-C - Proficient |
-x86 Assembly - Basic |
-JavaScript - Fluent |
-HTML & CSS - Fluent |
+Python - Expert
+
+C++ - Proficient
+
+C - Proficient 
+
+x86 Assembly - Basic 
+
+JavaScript - Advanced
+
+HTML & CSS - Advanced
 
 - Languages I would love to learn & Work with
   Java
