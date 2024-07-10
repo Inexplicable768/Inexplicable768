@@ -11,9 +11,9 @@
   My website linked contains contact information
 - 😄 Pronouns: ...
   He / Him
-- ⚡ Programming Languages & Experiance: ...
 - In highschool. Will not specify age
-  
+ - ⚡ Programming Languages & Experiance: ...
+
 Python - Expert
 
 C++ - Proficient
