@@ -24,7 +24,8 @@ JavaScript - Advanced
 HTML & CSS - Advanced
 
 I would like to at some point use: .NET, C#, Fortran, Lua, or Go
-Don't like java for a number of reasons. Hence why i won't take AP Computer Science
+
+Don't like java for a number of reasons but i will try a project with it
 
 Programming is fun, but remember its important to connect with the real world too. I do that, and im pretty content as a result.
 
