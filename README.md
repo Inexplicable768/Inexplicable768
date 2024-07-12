@@ -31,6 +31,8 @@ Programming is fun, but remember its important to connect with the real world to
 
 I am documenting a number of projects and you will see frequent uploading. Keep in mind I also am working on the Infinistem Project so I have on and off periods for both
 
+All my projects are either under the GNU Public License or the MIT License (or maybe the unlicense). You can of course copy or re-distribute any under the conditions of the licenses! Usually for small simple projects I make them public domain or GNU and MIT for bigger projects
+
 
   
     
