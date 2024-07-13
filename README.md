@@ -3,15 +3,17 @@
 - 👀 I’m interested in ...
 
   Computer Science & Engineering, Math, Natrulism & survival, nature, Music (I am a trombonist), poetry, art, and many other things facstinate me. I also play video games sometimes, like any person, but I have 
-  more i like than just that
+  more i like than just that. My favorite games are probably the entire portal and half life games, minecraft, drg, and many other small indie online ones. Ive played many others, these are just my top ones.
   
 - 📫 How to reach me ...
-  My website linked contains contact information
+  My website linked contains contact information via email and discord
   
 - 😄 Pronouns: ...
   He / Him
   
-- In highschool. Will not specify age
+- I am in highschool. Will not specify age
+
+  
  - ⚡ Programming Languages & Experiance: ...
 
 Python - Expert
