@@ -1,13 +1,16 @@
  👋 Hi, I’m @Infinistem, my real name is alex
  
 - 👀 I’m interested in ...
-- 
+
   Computer Science & Engineering, Math, Natrulism & survival, nature, Music (I am a trombonist), poetry, art, and many other things facstinate me. I also play video games sometimes, like any person, but I have 
   more i like than just that
+  
 - 📫 How to reach me ...
   My website linked contains contact information
+  
 - 😄 Pronouns: ...
   He / Him
+  
 - In highschool. Will not specify age
  - ⚡ Programming Languages & Experiance: ...
 
