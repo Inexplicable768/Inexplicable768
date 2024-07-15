@@ -8,11 +8,11 @@
   more i like than just that. My favorite games are probably the entire portal and half life games, minecraft, drg, and many other small indie online ones. Ive played many others, these are just my top ones.
   
 -  How to reach me
--  
+  
   My website linked contains contact information via email and discord
   
 -  Pronouns:
--  
+  
   He / Him
   
 - I am in highschool. Will not specify age
