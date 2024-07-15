@@ -1,4 +1,4 @@
- ## Hi, I’m @Infinistem, my real name is alex
+ ## Hi, I’m @Infinistem, my real name is alex 👋
 
  Check the **Infinistem** repository for main information such as a resume, project documentation, and my to do list
  
