@@ -19,7 +19,8 @@
 
   
  - Programming Languages & Experiance: 
-[<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/python.svg">](https://link/)
+[<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/python.svg" width="40" height="40">](https://link/)
+[<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c.svg" width="40" height="40">](https://link/)
 
 
 I would like to at some point use: .NET, C#, Fortran, Lua, or Go
