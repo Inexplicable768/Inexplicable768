@@ -1,6 +1,11 @@
 ## Work Plan & Public To Do- Near Future (2024, 2025)
 Note dates may be adjusted due to personal conflicts
 
+**Software Development - Near Future**
+- 2048 game in C++
+- finish all unfinished games
+- still alive from portal
+- Sigma programming language
 **Infinistem Website - 7/15/24 - 8/15/24**
 - complete career readiness section
 - complete climate change section
