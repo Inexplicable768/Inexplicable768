@@ -15,7 +15,8 @@
   
   He / Him
   
-- I am in highschool. Will not specify age
+- Who am I
+  I am in highschool. Will not specify age
 
   
  - Languages:
