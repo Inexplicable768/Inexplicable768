@@ -6,6 +6,9 @@ Note dates may be adjusted due to personal conflicts
 - finish all unfinished games
 - still alive from portal
 - Sigma programming language
+- operating system that only runs minesweeper
+
+  
 **Infinistem Website - 7/15/24 - 8/15/24**
 - complete career readiness section
 - complete climate change section
