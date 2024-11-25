@@ -1,6 +1,6 @@
  ## Hi, I’m @Infinistem, my real name is alex 👋
 
-see my website at infinistem.com. im focusing on it now. more projects will be uploaded within the next year
+NOTE: see my website at infinistem.com. im focusing on it now. more projects will be uploaded within the next year
 
  Check the **Infinistem** repository for main information such as a resume, project documentation, and my to do list
  
