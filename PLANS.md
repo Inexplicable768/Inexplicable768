@@ -5,14 +5,11 @@ Note dates may be adjusted due to personal conflicts
 - 2048 game in C++
 - finish all unfinished games
 - still alive from portal
-- Sigma programming language
+- programming language
 - operating system that only runs minesweeper
 
   
 **Infinistem Website - 7/15/24 - 8/15/24**
-- complete career readiness section
-- complete climate change section
-- complete a few more games
 - finish math: basic math, measurment, data and stats, arithmetic, algebra, geometry
 - finish engineering & computer science - Units 1, 2 and 3
 - add more tools and rework old ones
