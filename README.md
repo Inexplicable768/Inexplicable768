@@ -3,6 +3,7 @@
 NOTE: see my website at infinistem.com. im focusing on it now. more projects will be uploaded within the next year
 
  Check the **Infinistem** repository for main information such as a resume, project documentation, and my to do list
+ Just a chill guy that does programming and electrical engineering projects
  
 -  I’m interested in 
 
