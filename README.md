@@ -18,9 +18,9 @@ NOTE: see my website at infinistem.com. im focusing on it now. more projects wil
   He / Him
   
  - Languages:
-   
+   HTML, CSS, JavaScript, C, C++, Python, BASIC, x86 asm, 6502 asm
 
-I would like to at some point use: .NET, C#, Fortran, Lua, or Go
+I would like to at some point use: Java, C#, Fortran, Lua, or Go
 
 I am documenting a number of projects and you will see frequent uploading. Keep in mind I also am working on the Infinistem Project so I have on and off periods for both
 
