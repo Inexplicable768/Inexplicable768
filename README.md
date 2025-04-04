@@ -1,6 +1,8 @@
  ## Hi, I’m @Infinistem, my real name is alex 👋
 
-NOTE: see my website at infinistem.com. im focusing on it now. more projects will be uploaded within the next year
+NOTE: see my website at infinistem.com. im focusing on it now.
+
+CURRENT PROJECTS: Tetris, Doom, Mathamatica Lib
 
  Check the **Infinistem** repository for main information such as a resume, project documentation, and my to do list
  Just a chill guy that does programming and electrical engineering projects
