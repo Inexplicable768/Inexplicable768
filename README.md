@@ -15,11 +15,8 @@ I am the creator of the Infinistem project of stem education and future problem 
   
   My website linked contains contact information via email and discord
   
--  Pronouns:
-  
-  He / Him
-  
  - Languages:
+   
    HTML, CSS, JavaScript, C, C++, Python, BASIC, x86 asm, 6502 asm
 
 I would like to at some point use: Java, C#, Fortran, Lua, or Go
