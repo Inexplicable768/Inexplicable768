@@ -1,6 +1,7 @@
-**Welcome**
+**Welcome my name is Alex**
 
 NOTE: see my website at infinistem.com. im focusing on it now.
+
 ACTIVE PROJECTS: Tetris, Doom, Mathamatica Lib
 
 I am the creator of the Infinistem project of stem education and future problem solving. These are some random other small projects i have worked on. 
@@ -9,7 +10,7 @@ I am the creator of the Infinistem project of stem education and future problem 
  
 -  I’m interested in 
 
-  Computer Science & Electrical Engineering, Natrulism & survival, nature, Music (I am a trombonist), poetry, art, video games
+  Programming, Computer Science, Electrical Engineering, Natrulism & survival, Nature, Music, video games, Swimming, Tennis & some other sports
   
 -  How to reach me
   
