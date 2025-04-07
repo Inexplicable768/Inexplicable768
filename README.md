@@ -4,21 +4,22 @@ NOTE: see my website at infinistem.com. im focusing on it now.
 
 ACTIVE PROJECTS: Tetris, Doom, Mathamatica Lib
 
-I am the creator of the Infinistem project of stem education and future problem solving. These are some random other small projects i have worked on. 
- Check the **Infinistem** repository for main information such as a resume, project documentation, and my to do list
- Just a chill guy that does programming and electrical engineering projects
- 
--  I’m interested in 
-
-  Programming, Computer Science, Electrical Engineering, Natrulism & survival, Nature, Music, video games, Swimming, Tennis & some other sports
+- About Me
+  
+I just post projects I do for fun here. My main thing is infinistem.com which is website I made because I think people seriously
+need a better source of education on STEM to help them actually find it fun and to learn and study, check it out.
+Check the **Inexplicable768** repository for main information such as a resume, project documentation, and my to do list. I like
+Programming, Computer Science, Engineering, Natrulism & survival, Nature, Music, Video Games, Swimming, Tennis & some other sports. 
+Besides programming I like to compose and transcribe music, listen to music, play instruments, watch animes, play games and build things
+(circuits & mechanical things)
   
 -  How to reach me
   
-  My website linked contains contact information via email and discord
+  I mostly use discord for messaging. You can find it on my website
   
- - Languages:
+ - Languages Ive Worked With:
    
-   HTML, CSS, JavaScript, C, C++, Python, BASIC, x86 asm, 6502 asm
+   HTML, CSS, JavaScript, C, C++, Python, BASIC, x86 asm, 6502 asm, bash, powershell
 
 I would like to at some point use: Java, C#, Fortran, Lua, or Go
 
