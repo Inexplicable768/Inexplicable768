@@ -2,7 +2,7 @@
 
 NOTE: see my website at infinistem.com. im focusing on it now.
 
-ACTIVE PROJECTS: Tetris, Doom, Mathamatica Lib
+ACTIVE PROJECTS: Block Blast C++, 3D FPS Engine, Mathamatica Lib Python
 
 - About Me
   
@@ -21,7 +21,7 @@ Besides programming I like to compose and transcribe music, listen to music, pla
    
    HTML, CSS, JavaScript, C, C++, Python, BASIC, x86 asm, 6502 asm, bash, powershell
 
-I would like to at some point use: Java, C#, Fortran, Lua, or Go
+I would like to at some point use: Java, C#, Fortran, Lua, or Go, but dont know much about them
 
 I am documenting a number of projects and you will see frequent uploading. Keep in mind I also am working on the Infinistem Project so I have on and off periods for both
 
