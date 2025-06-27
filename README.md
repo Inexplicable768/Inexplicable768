@@ -1,8 +1,6 @@
 **Welcome my name is Alex**
 
-NOTE: see my website at infinistem.com. im focusing on it now.
-
-ACTIVE PROJECTS: Block Blast C++, 3D FPS Engine, Mathamatica Lib Python
+I am a guy who enjoys working on small projects for fun both programming and engineering, as well as learning how things work. My biggest goal is to help others through my website Infinistem.com
 
 - About Me
   
