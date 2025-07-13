@@ -1,6 +1,6 @@
 **Welcome my name is Alex**
 
-![Infinistem Logo](assets/logo.png)
+![Infinistem Logo](assets/favicon.png)
 
 I am a guy who enjoys working on small projects for fun both programming and engineering, as well as learning how things work. My biggest goal is to help others through my website Infinistem.com
 
