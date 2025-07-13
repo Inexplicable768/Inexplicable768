@@ -1,5 +1,7 @@
 **Welcome my name is Alex**
 
+![Infinistem Logo](assets/logo.png)
+
 I am a guy who enjoys working on small projects for fun both programming and engineering, as well as learning how things work. My biggest goal is to help others through my website Infinistem.com
 
 - About Me
@@ -17,9 +19,9 @@ Besides programming I like to compose and transcribe music, listen to music, pla
   
  - Languages Ive Worked With:
    
-   HTML, CSS, JavaScript, C, C++, Python, BASIC, x86 asm, 6502 asm, bash, powershell
+   HTML, CSS, JavaScript, C, C++, Python, BASIC, Java, x86 asm, 6502 asm, bash, powershell
 
-I would like to at some point use: Java, C#, Fortran, Lua, or Go, but dont know much about them
+I would like to at some point use:  C#, Fortran, Lua, or Go, but dont know much about them
 
 I am documenting a number of projects and you will see frequent uploading. Keep in mind I also am working on the Infinistem Project so I have on and off periods for both
 
