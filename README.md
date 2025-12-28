@@ -1,18 +1,12 @@
 **Welcome my name is Alex**
 
-<img src="assets/favicon.png" width="200" height="300">
 
 
 I am a guy who enjoys working on small projects for fun both programming and engineering, as well as learning how things work. My biggest goal is to help others through my website Infinistem.com
 
 - About Me
   
-I just post projects I do for fun here. My main thing is infinistem.com which is website I made because I think people seriously
-need a better source of education on STEM to help them actually find it fun and to learn and study, check it out.
-Check the **Inexplicable768** repository for main information such as a resume, project documentation, and my to do list. I like
-Programming, Computer Science, Engineering, Natrulism & survival, Nature, Music, Video Games, Swimming, Tennis & some other sports. 
-Besides programming I like to compose and transcribe music, listen to music, play instruments, watch animes, play games and build things
-(circuits & mechanical things)
+Check the **Inexplicable768** repository for main information such as a resume, project documentation, and my to do list. 
   
 -  How to reach me
   
