@@ -2,7 +2,7 @@
 
 
 
-I am a guy who enjoys working on small projects for fun both programming and engineering, as well as learning how things work. My biggest goal is to help others through my website Infinistem.com
+I am a guy who enjoys working on small projects for fun both programming and engineering, as well as learning how things work. 
 
 - About Me
   
