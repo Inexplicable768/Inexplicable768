@@ -1,7 +1,7 @@
 **Welcome my name is Alex**
 
 
-
+Working on a math and computer science related website which will be released in about July 2026
 I am a guy who enjoys working on small projects for fun both programming and engineering, as well as learning how things work. 
 
 - About Me
